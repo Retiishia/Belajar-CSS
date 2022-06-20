@@ -1,0 +1,13 @@
+#tulisan{
+   color : black;
+ }
+.box {
+  background: blue;
+  padding: 10px;
+}
+
+.syntax{
+  text-decoration: none;
+  text-transform: capitalize;
+  text-decoration-color: black;
+}
